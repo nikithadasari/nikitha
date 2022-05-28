@@ -12,7 +12,7 @@
 
 ## Technical
 
-'Reeling' 'Writing' 'painting in coils'
+`Reeling` `Writing` `painting in coils`
 
 # EDUCATION
 hjjbbkb,kvgghkhjghvjhkjgkjvhjvhjjkbjvnhvgub
